@@ -38,5 +38,3 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
-![image](https://github.com/nirmalyax/nirmalyax/assets/35608135/9b7b9799-e36d-4510-928e-2c9f7cfd6704)
-
