@@ -6,6 +6,7 @@
 ###
 ![GitHub metrics](https://metrics.lecoq.io/nirmalyax)  
 ###
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nirmalyax) 
 
 <h3 align="left">I am an enthusiastic, self-motivated, reliable, responsible and hard-working person, a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using own initiative.<br><br>Objective: To obtain a Full Stack Web Developer position that allows me to utilize my skills and experience in developing innovative and efficient web applications.</h3>
 
