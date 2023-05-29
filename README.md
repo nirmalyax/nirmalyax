@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Nirmalya Mondal... and I'm a Software developer..., from India....</h1>
+<h1 align="left">Hi 👋!    My name is Nirmalya Mondal... and I'm a Software developer..., from India....</h1>
 
 ###
 
