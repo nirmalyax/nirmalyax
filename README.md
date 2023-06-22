@@ -1,8 +1,9 @@
 <h1 align="left">Hi 👋!    My name is Nirmalya Mondal... and I'm a Software developer..., from India....</h1>
 
 ###
+[![GitHub Views](https://komarev.com/ghpvc/?nirmalyax=natterstefan&color=FAC151)][1]
 
-![Profile views](https://gpvc.arturio.dev/nirmalyax)  
+
 ###
 ![GitHub metrics](https://metrics.lecoq.io/nirmalyax)  
 ###
