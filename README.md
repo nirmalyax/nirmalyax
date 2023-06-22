@@ -2,7 +2,7 @@
 <h3 align="left">I am an enthusiastic, self-motivated, reliable, responsible and hard-working person, a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using own initiative.<br><br>Objective: To obtain a Full Stack Web Developer position that allows me to utilize my skills and experience in developing innovative and efficient web applications.</h3>
 
 
-https://img.shields.io/badge/Apple-000000.svg?style=for-the-badge&logo=Apple&logoColor=white
+
 ###
 ![Device:-](https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white)
 ###
