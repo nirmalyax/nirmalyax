@@ -4,7 +4,7 @@
 
 
 ###
-![[Device:-]([https://komarev.com/ghpvc/?nirmalyax=natterstefan&color=FAC151)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirmalyax](https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white))
+
 
 
 ###
