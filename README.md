@@ -5,11 +5,13 @@
 
 
 ###
+
 ![Device:-](https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white) 
 ###
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirmalyax)
 ###
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nirmalyax)
+
 ###
 ![GitHub metrics](https://metrics.lecoq.io/nirmalyax)  
 ###
