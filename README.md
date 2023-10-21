@@ -1,14 +1,14 @@
 <h1 align="center">
   
 ![github-header-image](https://github.com/nirmalyax/nirmalyax/assets/35608135/0cf19ee0-2c77-4430-a2c0-4408d3252f8e)
-
 </h1>
 
 ###
 
 <div align=center>
   
-![](https://gitwar.herokuapp.com/badge?username=your-nirmalyax&color=green)
+  ![](https://komarev.com/ghpvc/?username=nirmalyax)
+  
 ###
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -46,13 +46,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-
