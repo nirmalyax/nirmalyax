@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋 <br/>    My name is Nirmalya Mondal... and I'm a Frontend Developer from India....</h1>
+<h1 align="center">
+  
+![github-header-image](https://github.com/nirmalyax/nirmalyax/assets/35608135/0cf19ee0-2c77-4430-a2c0-4408d3252f8e)
 
-<h3 align="left">I am an enthusiastic, self-motivated, reliable, responsible and hard-working person, a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using own initiative.<br><br>Objective: To obtain a Full Stack Web Developer position that allows me to utilize my skills and experience in developing innovative and efficient web applications.</h3>
-
-
+</h1>
 
 ###
 
+<div align=center>
+  
+![](https://gitwar.herokuapp.com/badge?username=your-nirmalyax&color=green)
+###
+
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 ![Device:-](https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white) 
 ###
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirmalyax)
@@ -13,14 +20,15 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nirmalyax)
 
 ###
-![GitHub metrics](https://metrics.lecoq.io/nirmalyax)  
-###
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nirmalyax) 
 
 ###
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nirmalyax)
+  <div/> 
+
+###
 
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
@@ -39,7 +47,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
