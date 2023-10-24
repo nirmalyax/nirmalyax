@@ -1,6 +1,6 @@
 <h1 align="center">
-  
-![github-header-image](https://github.com/nirmalyax/nirmalyax/assets/35608135/0cf19ee0-2c77-4430-a2c0-4408d3252f8e)
+  <img width="1834" alt="banner" src="https://github.com/nirmalyax/nirmalyax/assets/35608135/c312b421-d38a-4875-b3f1-fdcf73956be3">
+
 </h1>
 
 ###
