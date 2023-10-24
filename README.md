@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img width="1834" alt="banner" src="https://github.com/nirmalyax/nirmalyax/assets/35608135/c312b421-d38a-4875-b3f1-fdcf73956be3">
+  
+<img width="1834" alt="banner" src="https://github.com/nirmalyax/nirmalyax/assets/35608135/53a2d19a-40d1-4893-a56c-41b97836fcd9">
 
 </h1>
 
