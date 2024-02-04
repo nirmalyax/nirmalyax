@@ -16,9 +16,7 @@
 ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 ![Device:-](https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white) 
 ###
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirmalyax)
 
-###
 
 ###
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nirmalyax)
