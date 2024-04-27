@@ -103,23 +103,16 @@ if __name__ == "__main__":
 
 <br/>  
 
-<div align="center">
+<div align="right">
             <a href="https://paypal.me/nirmalya26" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="left"
                 />
-            </a></div>  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=nirmalyax&&style=flat-square)  
+            </a>
   
+  ![Profile views counter](https://komarev.com/ghpvc/?username=nirmalyax&&style=flat-square) 
+  
+</div>  
 
-<br/>  
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
