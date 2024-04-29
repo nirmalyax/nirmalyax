@@ -97,9 +97,19 @@ if __name__ == "__main__":
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nirmalyax&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td></tr></table>  
+  ![nirmalyax's Stats](https://github-readme-stats.vercel.app/api?username=nirmalyax&theme=dracula&show_&count_private=true)
+  
+
+</td>
+
+<td>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nirmalyax&theme=gruvbox&border_radius=5.9)](https://git.io/streak-stats)
+  
+</td>
+
+</tr></table>  
 
 <br/>  
 
