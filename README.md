@@ -1,5 +1,5 @@
-## Hey 👋, I'm Nirmalya Mondal!  
-  
+
+![image](https://github.com/nirmalyax/nirmalyax/assets/35608135/c13af0ed-8e8a-417e-b98d-cf559f0a178c)
 
 <a href="https://github.com/nirmalyax" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
