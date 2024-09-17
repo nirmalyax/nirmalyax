@@ -1,5 +1,9 @@
 <div align='center'>
 
+```markdown
+> "You have the right to work, but never to the fruit of work." - Bhagavad Gita
+```
+
 # 👨‍💻 Nirmalya Mondal
   [![roadmap.sh](https://roadmap.sh/card/wide/66e351934ffb3bc3b066faa2?variant=dark)](https://roadmap.sh)
   
@@ -77,7 +81,6 @@ mindmap[
                 - Grafana
     )
 ]
-```
-   
+```   
 
 
