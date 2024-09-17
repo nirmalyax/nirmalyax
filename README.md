@@ -1,7 +1,7 @@
 <div align='center'>
 
-```markdown
-> "You have the right to work, but never to the fruit of work." - Bhagavad Gita
+```
+> "You have the right to work, but never to the fruit of work." - Bhagavad Gita <
 ```
 
 # 👨‍💻 Nirmalya Mondal
