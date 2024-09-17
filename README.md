@@ -4,7 +4,7 @@
 > "You have the right to work, but never to the fruit of work." - Bhagavad Gita <
 ```
 
-# 👨‍💻 Nirmalya Mondal
+# <> Nirmalya Mondal </>
   [![roadmap.sh](https://roadmap.sh/card/wide/66e351934ffb3bc3b066faa2?variant=dark)](https://roadmap.sh)
   
   ![Profile views counter](https://komarev.com/ghpvc/?username=nirmalyax&&style=flat-square) 
