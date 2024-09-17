@@ -1,7 +1,8 @@
-<center>
+<div align='center'>
 
 # 👨‍💻 Nirmalya Mondal
   [![roadmap.sh](https://roadmap.sh/card/wide/66e351934ffb3bc3b066faa2?variant=dark)](https://roadmap.sh)
+  
   ![Profile views counter](https://komarev.com/ghpvc/?username=nirmalyax&&style=flat-square) 
 ## 🚀 DevOps Engineer | ☁️ Cloud Enthusiast | 🌱 Continuous Learner
 
@@ -32,7 +33,7 @@
 </a>  
 
 
-</center>
+</div>
 
 ### 💼 Skills
 
