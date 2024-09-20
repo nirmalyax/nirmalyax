@@ -55,9 +55,6 @@
 
 </details>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="845774a0-e80a-4946-907c-43174507fa09" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 ### 💼 Skills
 
 ```
