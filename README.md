@@ -55,6 +55,20 @@
 
 </details>
 
+<summary>
+
+### 📊 OpenSauced
+
+</summary> <details>
+
+
+<div align="center">
+    ![image](https://github.com/user-attachments/assets/4de9d3c8-1835-4cba-a62f-84e1468a7319)
+
+</div>
+
+</details>
+
 ### 💼 Skills
 
 ```
